@@ -1,4 +1,4 @@
-# <JC's Prework Study Guide Webpage>
+# JC's Prework Study Guide Webpage
 
 ## Description
 
